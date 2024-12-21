@@ -10,7 +10,7 @@ public class Main {
         post.surname = "Горбунков";
         post.phone = "+7 (999) 999-99-99";
         post.passport = "4444 № 44444444";
-        post.subscription = String.valueOf(true);
+        post.subscription = true;
 
         post.birthday = new FormDate();
         post.birthday.day = 13;
